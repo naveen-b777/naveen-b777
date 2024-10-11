@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @naveen-b777
 - 👀 I’m interested in aviation
-- 👀 I also invests in stocks and sometimes trade
+- 👀 I also invest in stocks and sometimes trade
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on applications of AI/ML in aviation domain
+- 💞️ I’m looking to collaborate on applications of AI/ML in the aviation domain
 - 📫 How to reach me avgeeknaveen@gmail.com
 
 
